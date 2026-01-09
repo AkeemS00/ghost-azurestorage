@@ -29,7 +29,7 @@
     "bluebird": "^3.7.2",
     "ghost-storage-base": "^0.0.3",
     "request": "^2.88.0",
-    "sharp": "^0.31.0",
+    "sharp": "^0.33.5",
     "url": "^0.11.0"
   }
 }
